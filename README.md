@@ -12,7 +12,7 @@ To build the plugin as a vst3 bundle, run the following command:
 cargo xtask bundle nyasynth --release
 ```
 
-This will create a `nyasynth.vst3` bundle in `/target/bundled/`. Install this into any vst of your choice.
+This will create a `nyasynth.vst3` bundle in `/target/bundled/`. Install this into any daw of your choice.
 
 
 You can also create a standalone binary by running the following command:
